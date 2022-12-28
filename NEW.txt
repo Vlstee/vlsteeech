@@ -5,3 +5,4 @@ commit test
 9000
 Add line
 1234567890--
+new branch line
